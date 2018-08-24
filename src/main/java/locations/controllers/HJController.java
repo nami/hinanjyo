@@ -1,4 +1,4 @@
 package locations.controllers;
 
-public class HinanjyoController {
+public class HJController {
 }
